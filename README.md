@@ -6,7 +6,7 @@
 
 # Overview
 
-*book was developed to fulfill an assignment for a cloud computing class. The assignment was to create a social network using gossip protocols (specifically, the MiCA library). In theory, *book should be functional and efficient at cloud scale (thousands of nodes, millions of users), however it has only been actually tested on the order of a hundred nodes.
+*book was developed to fulfill an assignment for a cloud computing class in 2012. The assignment was to create a social network using gossip protocols (specifically, the MiCA library). In theory, *book should be functional and efficient at cloud scale (thousands of nodes, millions of users), however it has only been actually tested on the order of a hundred nodes.
 
 I wrote *book in about a month. It has rough edges, hard-coded parts that should be configuration, and generally needs optimization and other improvements if one were to seriously use it in production. It was written as a proof-of-concept MVP that uses gossip networking. That said, it does (or did) work as intended. A live demonstration was presented at BOOM 2012.
 
